@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>multiline.js</title>
+<script type="text/javascript" src="multiline.js"></script>
+<script type="text/javascript">
+	var str = multiline(function(){/*
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<title>#{ title }</title>
+		</head>
+		<body>
+			<h1>Hello #{name}, I'm #{age} years old. </h1>
+		</body>
+		</html>
+	*/}, { name: 'lsong', age: 25, title: 'Homepage' });
+	console.log(str);
+</script>
+</head>
+<body>
+	<p>Please open <a href="https://developer.chrome.com/devtools" >Google Chrome Developer Tools</a> and switch to <b>Console</b> .</p>
+</body>
+</html>
