@@ -18,7 +18,7 @@ var str = '' +
 ";
 ```
 
-#### After
+### After
 
 ```js
 var str = multiline(function(){/*
@@ -35,6 +35,10 @@ var str = multiline(function(){/*
 
 console.log(str);
 ```
+
+## Thanks
+
+Inspired by [multiline](https://gneithub.com/sindresorhus/multiline) .
 
 ## License
 
