@@ -38,7 +38,7 @@ console.log(str);
 
 ## Thanks
 
-Inspired by [multiline](https://gneithub.com/sindresorhus/multiline) .
+Inspired by [multiline](https://github.com/sindresorhus/multiline) .
 
 ## License
 
