@@ -49,7 +49,7 @@ console.log(str);
 ### Node.js
 
 ```js
-npm install multiline --save
+npm install multiline.js --save
 ```
 
 ## Thanks

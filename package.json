@@ -1,6 +1,6 @@
 {
   "name": "multiline.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multiline strings in JavaScript ",
   "main": "multiline.js",
   "directories": {
