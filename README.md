@@ -2,6 +2,8 @@
 
 ## Multiline strings in JavaScript
 
+[![NPM](https://nodei.co/npm/multiline.js.png)](https://nodei.co/npm/multiline.js/)
+
 ### Before
 
 ```js
@@ -34,6 +36,20 @@ var str = multiline(function(){/*
 */}, { name: 'lsong', age: 25, title: 'Homepage' });
 
 console.log(str);
+```
+
+## Install
+
+### Browser side
+
+```html
+<script src="./js/multiline.js" ></script>
+```
+
+### Node.js
+
+```js
+npm install multiline --save
 ```
 
 ## Thanks

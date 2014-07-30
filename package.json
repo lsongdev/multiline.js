@@ -1,0 +1,27 @@
+{
+  "name": "multiline.js",
+  "version": "1.0.1",
+  "description": "Multiline strings in JavaScript ",
+  "main": "multiline.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/song940/multiline.js.git"
+  },
+  "keywords": [
+    "multiline",
+    "string",
+    "concat"
+  ],
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/multiline.js/issues"
+  },
+  "homepage": "https://github.com/song940/multiline.js"
+}
