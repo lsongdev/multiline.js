@@ -4,7 +4,7 @@
  * @homepage    https://lsong.org
  * @github      https://github.com/song940/multiline.js
  */
-;(function(win, undefined){
+;(function(exports, undefined){
 
   /**
    * [multiline]
@@ -38,6 +38,9 @@
     });
   };
   //exports.
-  win.multiline = multiline;
-
-})(window);
+	if(typeof window == 'object'){
+		window.multiline = multiline;
+	}else{
+		module.exports = multiline;
+	}
+})();
