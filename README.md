@@ -1,5 +1,7 @@
 # multiline.js
 
+[![Build Status](https://travis-ci.org/song940/multiline.js.svg?branch=master)](https://travis-ci.org/song940/multiline.js)
+
 ## Multiline strings in JavaScript
 
 [![NPM](https://nodei.co/npm/multiline.js.png)](https://nodei.co/npm/multiline.js/)

@@ -1,4 +1,4 @@
-var multiline = require('./multiline');
+var multiline = require('../multiline');
 
 var str = multiline(function(){/*
 		<!DOCTYPE html>
