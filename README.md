@@ -1,8 +1,6 @@
 # multiline.js
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/song940/multiline.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![Build Status](https://travis-ci.org/song940/multiline.js.svg?branch=master)](https://travis-ci.org/song940/multiline.js)
+[![Build Status](https://travis-ci.org/song940/multiline.js.svg?branch=master)](https://travis-ci.org/song940/multiline.js) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/song940/multiline.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Multiline strings in JavaScript
 
