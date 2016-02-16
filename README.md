@@ -45,7 +45,7 @@ console.log(str);
 ### Browser side
 
 ```html
-<script src="./js/multiline.js" ></script>
+<script src="https://cdn.rawgit.com/song940/multiline.js/master/multiline.js" ></script>
 ```
 
 ### Node.js
